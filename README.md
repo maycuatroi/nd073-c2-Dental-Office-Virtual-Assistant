@@ -14,6 +14,6 @@
 - Deploy the bot code to Azure
   - ![deploy-bot.png](screenshots%2Fdeploy-bot.png)
 - Deploy the bot to a static web app in Azure.
-  - 
+  - https://happy-sea-048797f10.4.azurestaticapps.net/
 - Automate deployment through GitHub actions
-  - 
+  - https://github.com/maycuatroi/nd073-c2-Dental-Office-Virtual-Assistant/blob/master/.github/workflows/azure-static-web-apps-happy-sea-048797f10.yml
